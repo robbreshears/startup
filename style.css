@@ -1,0 +1,50 @@
+body {
+  color: #159fd5;
+}
+
+.navbar-brand {
+  background-color: #e3252;
+  font-family: 'Righteous', cursive;
+  font-size: 2em;
+  background-color: #e3252;
+}
+
+.i {
+  background-color: #e32525;
+}
+
+.lead {
+  padding-top: 10px;
+  font-family: 'Righteous', cursive;
+  font-size: 2em;
+  color: #e32525;
+}
+
+.jumbotron {
+  background-image: url("https://images.unsplash.com/photo-1495646396089-494e3c73c673?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=40fe80b6994932255c555630ae916bbc&auto=format&fit=crop&w=600&q=60");\
+  max-width: 100%;
+  background-size: cover;
+  height: 25em;
+}
+
+.box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 5px;
+}
+
+.moreinfo {
+  display: flex;
+  justify-content: center;
+}
+
+.btn .btn-outline-info{
+  background-color: #159fd5;
+}
+
+.btn:hover {
+  background-color: #e32525;
+  color: white;
+  border-color: #e32525;
+}
