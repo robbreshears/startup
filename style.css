@@ -21,7 +21,8 @@ body {
 }
 
 .jumbotron {
-  background-image: url("https://images.unsplash.com/photo-1495646396089-494e3c73c673?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=40fe80b6994932255c555630ae916bbc&auto=format&fit=crop&w=600&q=60");\
+  background-image: url("https://images.unsplash.com/photo-1495646396089-494e3c73c673?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=40fe80b6994932255c555630ae916bbc&auto=format&fit=crop&w=600&q=60");
+  opacity: 0.80;
   max-width: 100%;
   background-size: cover;
   height: 25em;
